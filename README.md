@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James
-- 👀 I’m interested in programming and networking, and IoT
+- 👀 I’m interested in programming, networking, and IoT
 - 🌱 I’m currently learning cisco packet tracer
 - 💞️ I’m looking to collaborate on networking
 - 📫 How to reach me just hmu @Haymee in insta and at my email esparragojames@gmail.com
